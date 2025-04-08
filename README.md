@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Q!
+🌱 I’m currently learning how to use GitHub and JavaScript
+😬 I'm new to coding and still figuring it all out 🫣
 <!--
 **qhorne/qhorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
